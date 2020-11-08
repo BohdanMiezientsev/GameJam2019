@@ -5,4 +5,6 @@ Casual game showing student life as it is
 Made by:  
 Miezientsev Bohdan - game programmer  
 Severyn Lutskiv - ui programmer  
-Przemyslaw Pszczolkowski - ui / game design  
+Przemyslaw Pszczolkowski - ui / game design    
+
+Gameplay preview and documentation in "additional" folder
